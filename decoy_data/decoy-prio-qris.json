@@ -1,0 +1,10 @@
+{
+    "family_name": "Conference",
+    "family_code": "5dab52d5-6f02-4678-b72f-088396ceb113",
+    "is_enterprise": true,
+    "migration_type": "PRIOH_TO_PRIO",
+    "variant_code": "bf84ad5b-87e9-4769-9bd2-2359535c05e4",
+    "option_name": "Conference 2GB",
+    "order": 1,
+    "price": 2000
+}
