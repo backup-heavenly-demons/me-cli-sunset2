@@ -9,7 +9,23 @@ Go to [OUR TELEGRAM CHANNEL](https://t.me/indonesian_door_assosiation)
 Copy the provided environment variables and paste it into a text file named `.env` in the same directory as `main.py`.
 You can use nano or any text editor to create the file.
 
-# How to run with TERMUX
+# cara menggunakan dengan TERMUX
+
+catatan untuk yang baru pertama kali pakai termux install ini dulu
+
+copy paste semua di termux lalu enter, lakukan saat satu 
+```
+apt update && apt full-upgrade
+```
+```
+pkg install git
+```
+```
+pkg install python
+```
+```
+apt install python-pillow
+```
 1. Update & Upgrade Termux
 ```
 pkg update && pkg upgrade -y
