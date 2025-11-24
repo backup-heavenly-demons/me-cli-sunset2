@@ -26,9 +26,6 @@ pkg install python
 ```
 apt install python-pillow
 ```
-```
-pip install -r requirements.txt
-```
 untuk yang sebelumnya pernah menginstal hal diatas atas langsung lakukan ini 
 
 1. Update & Upgrade Termux
@@ -51,6 +48,10 @@ cd heavenly-demons-cli
 ```
 bash setup.sh
 ```
+```
+pip install -r requirements.txt
+```
+
 Menambahkan Environment Variables:
 1. Buka https://rentry.co/me-sunset & copy
 2. Bikin file .env di dalam folder me-cli-sunset dengan isi text yang sudah di-copy tadi di dengan cara ketik
