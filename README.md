@@ -26,6 +26,8 @@ pkg install python
 ```
 apt install python-pillow
 ```
+untuk yang sebelumnya pernah menginstal hal diatas atas langsung lakukan ini 
+
 1. Update & Upgrade Termux
 ```
 pkg update && pkg upgrade -y
