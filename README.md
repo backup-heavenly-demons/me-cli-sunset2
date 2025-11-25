@@ -18,7 +18,8 @@ copy paste semua di termux lalu enter, lakukan saat satu
 ### pilih salah satu metode mau A atau B , jika ingin install saja gunakan metode A
 
 ## metode A
-install tanpa melihat semua log paket yang di install 
+#### install tanpa melihat semua log paket yang di install 
+1. update 
 ```
 pkg update && pkg upgrade -y
 ```
@@ -55,7 +56,7 @@ enter
 python main.py
 ```
 ## metode B
-jika kamu ingin melihat log paket yang diinstal gunakan metode ini 
+#### jika kamu ingin melihat log paket yang diinstal gunakan metode ini 
 ```
 apt update && apt full-upgrade
 ```
